@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @odielo
-- 👀 I’m interested in ...data scince
+- 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...data science 
 - 💞️ I’m looking to collaborate on ...data science libraries
 - 📫 How to reach me ...brian.odielo@gmail.com
